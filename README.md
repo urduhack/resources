@@ -1,4 +1,4 @@
-Urdu-Datasets: Dataset Resources for Urdu language ( 🇵🇰 )
+Dataset Resources for Urdu language ( 🇵🇰 )
 ========================================================
 
 
