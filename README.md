@@ -1,5 +1,5 @@
-Urduhack: NLP library for ( 🇵🇰 ) Urdu language
-================================================
+Urdu-Datasets: Dataset Resources for Urdu language ( 🇵🇰 )
+========================================================
 
 
 [![image](https://img.shields.io/github/contributors/urduhack/urduhack.svg)](https://github.com/urduhack/urduhack/graphs/contributors)
