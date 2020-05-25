@@ -1,6 +1,6 @@
 # Resources for Urduhack library
 
-## Datasets
+## 🗄️ Datasets
 
 | Name                               | Type  | Tag version                            |
 | :---                               | :---  | :---                                   |
